@@ -5,7 +5,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/wDRxxx/yandex_calculator_api/cmd/internal/service"
+	"github.com/wDRxxx/yandex_calculator_api/internal/service"
 	"github.com/wDRxxx/yandex_calculator_api/pkg/stack"
 )
 

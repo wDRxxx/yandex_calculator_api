@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/wDRxxx/yandex_calculator_api/cmd/internal/app"
+	"github.com/wDRxxx/yandex_calculator_api/internal/app"
 )
 
 var port string

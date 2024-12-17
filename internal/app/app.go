@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/wDRxxx/yandex_calculator_api/cmd/internal/models"
-	"github.com/wDRxxx/yandex_calculator_api/cmd/internal/service"
-	"github.com/wDRxxx/yandex_calculator_api/cmd/internal/service/calculator"
+	"github.com/wDRxxx/yandex_calculator_api/internal/models"
+	"github.com/wDRxxx/yandex_calculator_api/internal/service"
+	"github.com/wDRxxx/yandex_calculator_api/internal/service/calculator"
 	"github.com/wDRxxx/yandex_calculator_api/pkg/utils"
 )
 
